@@ -1,0 +1,24 @@
+.My-Main {
+  color: rgb(172, 69, 22);
+}
+
+body {
+  background-color: rgb(235, 156, 120);
+}
+
+.The-Color > li{
+  color:black;
+  text-decoration: underline;
+}
+
+#Hobbies, #Introduction{
+  padding: 20px 30px;
+}
+
+*{
+  border: 20px;
+}
+
+#Hover:hover{
+  color:blueviolet;
+}
